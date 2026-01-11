@@ -29,6 +29,7 @@ saucedemo-wdio-cucumber/
 │       ├── login.steps.js
 │       ├── products.steps.js
 │       └── checkout.steps.js
+│
 ├── pageobjects/
 │   ├── login.page.js
 │   ├── products.page.js
@@ -36,9 +37,14 @@ saucedemo-wdio-cucumber/
 │   ├── checkout.page.js
 │   ├── checkoutOverview.page.js
 │   └── checkoutComplete.page.js
+│
+├── test-data/
+│   ├── users.data.js
+│
 ├── wdio.conf.js
 ├── package.json
 └── README.md
+
 
 ````
 
