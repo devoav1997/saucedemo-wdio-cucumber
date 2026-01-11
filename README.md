@@ -1,3 +1,6 @@
+# SauceDemo Web Automation  
+**WebdriverIO + Cucumber (BDD)**
+
 Project ini merupakan automation testing untuk website **SauceDemo**
 menggunakan **WebdriverIO**, **Cucumber (BDD)**, dan **Page Object Model (POM)**.
 
